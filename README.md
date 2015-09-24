@@ -4,8 +4,6 @@ Designed for MEGA 2560.
 
 May need to reduce serial baud rate in both computer and floppy programs if long cable or on Linux.
 
-A couple video examples I made are available here (work in progress!!):
+A video examples I made is available here (work in progress!!):
 
-http://youtu.be/wcLWGorCL_c
-
-http://youtu.be/V-KFXXLcdhM
+https://youtu.be/V-KFXXLcdhM
